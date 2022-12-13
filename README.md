@@ -9,7 +9,7 @@ Projeto nodets-pets.
 
 ## :eyes: Site de demonstração
 
-Você pode acessar o site [aqui.](pets-ja9f.onrender.com/)
+Você pode acessar o site [aqui.](https://pets-ja9f.onrender.com/)
 
 
 <p align="center">INSTRUÇÕES</p>
